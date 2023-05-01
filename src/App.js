@@ -11,7 +11,7 @@ import Copyright from "./Ecommerce/Home/Copyright";
 export default function App(props) {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="react-project">
         <Navbar />
         <Routes>
           <Route exact path="/" element={<Home />}></Route>
