@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Router, Routes, Route } from "react-router-dom";
 import Navbar from "./Ecommerce/Navbar";
 import About from "./Ecommerce/About";
 import Home from "./Ecommerce/Home";
@@ -11,7 +11,7 @@ import Copyright from "./Ecommerce/Home/Copyright";
 export default function App(props) {
   return (
     <>
-      <BrowserRouter>
+      <Router>
         <Navbar />
         <Routes>
           <Route exact path="/" element={<Home />}></Route>
@@ -20,7 +20,7 @@ export default function App(props) {
           <Route exact path="/signin" element={<Signin />}></Route>
         </Routes>
         <Copyright/>
-      </BrowserRouter>
+      </Router>
       
     </>
   );
