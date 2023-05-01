@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Paul Sawers",
+            "title": "Copy that: RightHub wants to be the command center for intellectual property management",
+            "description": "RightHub has built what it calls the \"infrastructure for protecting innovation and brands,\" akin to a command center for all-things IP.",
+            "url": "https://techcrunch.com/2023/03/14/copy-that-how-righthub-plans-to-bring-efficiency-and-collaboration-to-ip-management/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-924403102.jpg?resize=1200,675",
+            "publishedAt": "2023-03-14T12:17:58Z",
+            "content": "An entrepreneur might have the best idea since sliced bread, but if they’re unable to protect it with the relevant patents, trademarks, or copyrights, then there’s a good chance they won’t see the fr… [+5819 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "India probing ‘several’ crypto cases for money laundering, seizes over $115 million",
+            "description": "India’s Enforcement Directorate is investigating several crypto cases for money-laundering schemes and has seized over $115 million to date.",
+            "url": "https://techcrunch.com/2023/03/14/india-probing-several-crypto-cases-for-money-laundering-seizes-over-115-million/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1170327687.jpg?resize=1200,675",
+            "publishedAt": "2023-03-14T10:51:53Z",
+            "content": "Indias Enforcement Directorate is investigating “several” crypto cases for money-laundering schemes and has seized $115.5 million to date in such crimes, the Ministry of Finance said, the latest in a… [+2144 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Tage Kene-Okafor",
+            "title": "Nigerian credit-led fintech FairMoney acquires PayForce in retail-merchant banking play",
+            "description": "FairMoney has acquired YC-backed PayForce as the lender looks to broaden its financial services proposition to merchants.",
+            "url": "https://techcrunch.com/2023/03/14/nigerian-credit-led-fintech-fairmoney-acquires-payforce-in-retail-merchant-banking-play/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/0AAA224A-AF7F-46B9-96A7-F208B35363DE.jpeg?w=1170",
+            "publishedAt": "2023-03-14T09:06:16Z",
+            "content": "Nigerian credit-led digital banking platform FairMoney has acquired PayForce (sub-brand of YC-backed CrowdForce), a merchant payment services that serves small businesses, as the digital lender looks… [+6016 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Annie Njanja",
+            "title": "MENA VC Flat6Labs' new fund to back startups in East, West Africa",
+            "description": "Flat6Labs targets to raise $95 million for the Africa Seed Fund, which will mark its first venture outside MENA region.",
+            "url": "https://techcrunch.com/2023/03/13/mena-vc-flat6labs-new-fund-to-back-startups-in-east-west-africa/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/Flat6Labs-Africa-Seed-Fund.jpg?resize=1200,800",
+            "publishedAt": "2023-03-14T05:48:31Z",
+            "content": "Flat6Labs is amongst the most active VCs in Africa, having invested in over a hundred startups to date, across the Middle East and North Africa (MENA) region. And now, after 11 years, the Egypt-based… [+3902 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "Microsoft lays off an ethical AI team as it doubles down on OpenAI",
+            "description": "Microsoft laid off an entire team dedicated to guiding AI innovation that leads to ethical, responsible and sustainable outcomes.",
+            "url": "https://techcrunch.com/2023/03/13/microsoft-lays-off-an-ethical-ai-team-as-it-doubles-down-on-openai/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1354846583.jpeg?resize=1200,900",
+            "publishedAt": "2023-03-14T01:26:27Z",
+            "content": "Microsoft laid off an entire team dedicated to guiding AI innovation that leads to ethical, responsible and sustainable outcomes. The cutting of the ethics and society team, as reported by Platformer… [+2447 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Haje Jan Kamps",
+            "title": "AG5 throws a lifeline to a manufacturing industry drowning in spreadsheets",
+            "description": "You’d think that an industry like manufacturing had its own software stack, but in a lot of cases, a huge amount of getting-things-made is managed through Excel spreadsheets. The thing is, spreadsheets are great for many things, but for manufacturing, and esp…",
+            "url": "https://techcrunch.com/2023/03/14/ag5-fundraise/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/AG5-lg.jpg?resize=1200,710",
+            "publishedAt": "2023-03-14T00:09:40Z",
+            "content": "You’d think that an industry like manufacturing had its own software stack, but in a lot of cases, a huge amount of getting-things-made is managed through Excel spreadsheets. The thing is, spreadshee… [+3701 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ram Iyer",
+            "title": "Time to trust: Questions cybersecurity customers ask and how to answer them",
+            "description": "The No. 1 question people ask as they learn about a new tool is: “What problem is this company trying to solve?”",
+            "url": "https://techcrunch.com/2023/03/14/time-to-trust-questions-cybersecurity-customers-ask-and-how-to-answer-them/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1183420840.jpg?resize=1200,781",
+            "publishedAt": "2023-03-13T23:50:19Z",
+            "content": "Trust is fundamentally about a sense of safety, familiarity and assurance that everything will be fine.” Faith is built as we address our doubts and the questions that make us wonder if we can rely o… [+2730 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Haje Jan Kamps",
+            "title": "Rethink rethinks mobility and logistics with new €50M fund",
+            "description": "Rethink Ventures' thesis-driven investment focus is on next-generation vehicle technologies, mobility, logistics and energy.",
+            "url": "https://techcrunch.com/2023/03/14/rethink-logistics-fund/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1159835038.jpg?resize=1200,675",
+            "publishedAt": "2023-03-10T18:26:18Z",
+            "content": "Rethink Ventures just announced a 50 million specialist fund focused on mobility, automotive and logistics. With keywords “clean, safe, and digital,” the Munich-based firm is focusing especially on E… [+2069 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Mars-backed Bundle x Joy bags $1M to double its pet care footprint in retailers",
+            "description": "Bundle x Joy provides premium superfood nutrition and curated product bundles of supplements and treats for dogs.",
+            "url": "https://techcrunch.com/2023/03/14/bundle-x-joy-pet-care-commerce/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/Copy-of-BundlexJoy0709.jpg?resize=1200,675",
+            "publishedAt": "2023-03-08T22:17:05Z",
+            "content": "Pet ownership has steadily increased through the years, with many people bringing pets into their families during the past three years. That, in turn, boosted the pet industry itself, with the market… [+4601 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Cloud security vendor Mitiga lands $45M, valuing the company at over $100M",
+            "description": "Mitiga, a cloud and software-as-a-service security startup, has raised $45 million in venture capital.",
+            "url": "https://techcrunch.com/2023/03/14/mitiga-raises-45m-for-cloud-security/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1334236014.jpg?resize=1200,804",
+            "publishedAt": "2023-03-06T23:01:34Z",
+            "content": "Companies moved en masse to the cloud during the pandemic, under pressure to digitally transform. According to a 2021 survey from OReilly, cloud adoption steadily rose across industries, with 90% of … [+4580 chars]"
+        }
+    ]
+}
