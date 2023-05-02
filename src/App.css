@@ -715,9 +715,10 @@
       margin: 15px 0 0 0;
     }
 
-  /* .contactContainer{
-  z-index: 100;
-  } */
+  .contactContainer{
+    margin-top: 3rem;
+
+  }
     
     .sectionContainer{
       height: 10vh;
