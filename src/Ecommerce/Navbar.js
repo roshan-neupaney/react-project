@@ -29,16 +29,16 @@ export default function Navbar(props) {
     </div>
     <div className={visibility} id="navbarNav">
       <ul className="navbar-nav navbar-nav-resp">
-        <li className="nav-item">
+        <li className="nav-item nav-item-resp">
           <Link className="nav-link active" aria-current="page" to="/">Home</Link>
         </li>
         <li className="nav-item nav-item-resp">
           <Link className="nav-link" to="/about">About</Link>
         </li>
-        <li className="nav-item">
+        <li className="nav-item nav-item-resp">
           <Link className="nav-link" to="/contact">Contact</Link>
         </li>
-        <li className="nav-item">
+        <li className="nav-item nav-item-resp">
           <Link className="nav-link" to="/signIn">Sign In <i className="fa-solid fa-arrow-right-to-bracket"></i></Link>
         
         </li>

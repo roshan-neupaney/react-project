@@ -78,14 +78,14 @@ export default function Contact() {
         <div className="messageSection2">
           <div className="form">
             <input
-              className="input-form"
+              className="input-form form-input"
               type="text"
               name="name"
               id="name"
               placeholder="Enter your name"
             />
             <input
-              className="input-form"
+              className="input-form form-input"
               type="email"
               name="email"
               id="email"
@@ -93,7 +93,7 @@ export default function Contact() {
             />
             <textarea
               name="text"
-              className="input-form textarea"
+              className="input-form textarea form-input"
               id="text"
               cols="30"
               rows="10"
