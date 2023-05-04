@@ -1,33 +1,48 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 export default function Contact() {
   return (
     <>
       <div className="contactContainer">
-      <div className="contactHeader">
+        <div className="contactHeader">
           <h2>Follow Us</h2>
         </div>
         <div className="logoContainer">
-          <div className="logoSection">
-            <div className="logo">
-              <i class="fa-brands fa-2x fa-facebook"></i>
+          <Link to="https://www.facebook.com" target="_blank" className="links">
+            <div className="logoSection">
+              <div className="logo">
+                <i class="fa-brands fa-2x fa-facebook"></i>
+              </div>
+              <div className="logoname">Facebook</div>
             </div>
-            <div className="logoname">Facebook</div>
-          </div>
-          <div className="logoSection">
-            <div className="logo">
-              <i class="fa-brands fa-2x fa-instagram"></i>
+          </Link>
+          <Link
+            className="links"
+            to="https://www.instagram.com"
+            target="_blank"
+          >
+            <div className="logoSection">
+              <div className="logo">
+                <i class="fa-brands fa-2x fa-instagram"></i>
+              </div>
+              <div className="logoname">Instagram</div>
             </div>
-            <div className="logoname">Instagram</div>
-          </div>
-          <div className="logoSection">
+          </Link>
+          <Link
+            className="links"
+            to="https://www.twitter.com"
+            target="_blank"
+          >
+            <div className="logoSection">
             <div className="logo">
               <i class="fa-brands fa-2x fa-twitter"></i>
             </div>
             <div className="logoname">Twitter</div>
           </div>
+          </Link>
         </div>
-        
+
         <div className="contactsection">
           {/* <h4>Lets Shop</h4> */}
           <p className="contactPara">Basundhara-4, Kathmandu</p>
@@ -57,7 +72,6 @@ export default function Contact() {
             <div className="logoname">Message</div>
           </div>
         </div>
-        
       </div>
       <div className="messageContainer">
         <div className="messageSection1">
