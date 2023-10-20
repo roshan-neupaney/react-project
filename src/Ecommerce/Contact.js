@@ -46,7 +46,7 @@ export default function Contact() {
         <div className="contactsection">
           {/* <h4>Lets Shop</h4> */}
           <p className="contactPara">Basundhara-4, Kathmandu</p>
-          <p className="contactPara">9845445600</p>
+          <p className="contactPara">9840000000</p>
           <p className="contactPara">exampleaddress@gmail.com</p>
         </div>
         <div className="contactHeader">

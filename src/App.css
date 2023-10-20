@@ -1,3 +1,7 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
 * {
     margin: 0;
     padding: 0;
@@ -329,7 +333,7 @@
     /* border: 2px solid yellow; */
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content:space-between ;
     font-size: 1.2em;
     align-items: center;
     padding: 5px;
@@ -674,8 +678,7 @@
       justify-content: space-evenly;
       align-items: center;
       /* height: 100%; */
-      width: 100%;
-  
+      width: 100%;  
     }
   
     .featureCard{
@@ -809,6 +812,15 @@
     left: 120px;
     height: 70%;
     width: 60%;
+}
+
+.featureCardsContainer{
+  flex-direction: column;
+}
+.featureCard{
+  width: 50%;
+  margin: 1rem;
+  /* height: 100%; */
 }
   }
   
