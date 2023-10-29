@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <>
       <div>
-        <InfoBox greetingText={"Welcome to"} storeName={"Let's Shop"} buttonText={"Shop Now"} storeDescription={storeDescription1} storeImage={tech} />
+        <InfoBox greetingText={"Welcome to"} storeName={"Let's Shop"} buttonText={"Shop"} storeDescription={storeDescription1} storeImage={tech} />
         <FeatureCards />
         <Services />
         {/* <CompanyRefer/> */}
